@@ -1,0 +1,9 @@
+[package]
+name = "pathlib"
+version = "0.1.0"
+authors = ["Steven Pease <peasteven@gmail.com>"]
+
+[dependencies]
+failure = "0.1"
+glob = "0.2.11"
+url = "1.6"
